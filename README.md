@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ChineseKnife
-- 👀 I’m interested in cryptocurrency, payments systems and the FinTech industry. In terms of coding, I want to learn more around Python and UNIX. 
+- 👀 I’m interested in payments systems and the FinTech industry. In terms of coding, I want to learn more around Python and UNIX. 
 - 🌱 I’m currently learning UNIX, Python and SQL.
 - 💞️ I’m looking to collaborate on beginner-level projects
 - 📫 How to reach me rlei1234@outlook.com
