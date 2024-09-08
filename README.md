@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ChineseKnife
-- 👀 I’m interested in payments systems and the FinTech industry. In terms of coding, I want to learn more around Python and UNIX. 
-- 🌱 I’m currently learning UNIX, Python and SQL.
+- 👀 I’m a Business Systems Analyst - with intermediate proficiency in UNIX, Python & SQL. 
+- 🌱 I’m currently learning UNIX, Python and SQL to an advanced level. I also aim to learn some BI tools (e.g. Power BI & Tableau)
 - 💞️ I’m looking to collaborate on beginner-level projects
-- 📫 How to reach me rlei1234@outlook.com
+- 📫 Reach me at rlei1234@outlook.com 
 
 <!---
 ChineseKnife/ChineseKnife is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
